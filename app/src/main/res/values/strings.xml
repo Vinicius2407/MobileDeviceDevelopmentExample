@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nome">Nome:</string>
+    <string name="email">E-mail:</string>
+    <string name="telefone">Telefone</string>
+    <string name="nao">Não</string>
+    <string name="sim">Sim</string>
+    <string name="whats">WhatsApp</string>
+    <string name="periodo">Periodo:</string>
+    <string name="manha">Manhã</string>
+    <string name="tarde">Tarde</string>
+    <string name="noite">Noite</string>
+    <string name="preferencia">Preferencia</string>
+    <string name="internet">Internet</string>
+    <string name="tvACabo">TV a Cabo</string>
+    <string name="Streaming">Streaming</string>
+    <string name="limpar">Limpar</string>
+    <string name="confirmar">Confirmar</string>
+</resources>
